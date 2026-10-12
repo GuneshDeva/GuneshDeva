@@ -144,23 +144,20 @@ A Java-based banking application demonstrating modular backend services, service
 <!-- GitHub Stats -->
 <img
   src="https://github-readme-stats.shion.dev/api?username=GuneshDeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
-  height="180"
+  height="165"
   alt="GitHub Stats"
 />
-
 <!-- GitHub Streak with Cyan Accent -->
 <img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=GuneshDeva&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
-  height="180"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=GuneshDeva&theme=tokyonight&hide_border=true&ring=FF9800&fire=FF9800&currStreakLabel=FF9800"
+  height="165"
   alt="GitHub Contribution Streak"
 />
-
-<br/><br/>
-
+<br/>
 <!-- Top Languages -->
 <img
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=GuneshDeva&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-  height="180"
+  height="165"
   alt="Most Used Programming Languages"
 />
 
