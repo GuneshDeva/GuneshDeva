@@ -136,21 +136,38 @@ A Java-based banking application demonstrating modular backend services, service
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=GuneshDeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub contribution statistics" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.shion.dev/api?username=GuneshDeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com/?user=GuneshDeva&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180" alt="GitHub contribution streak" />
+<!-- GitHub Streak with Cyan Accent -->
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=GuneshDeva&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+  height="180"
+  alt="GitHub Contribution Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GuneshDeva&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Most-used programming languages" />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=GuneshDeva&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+  height="180"
+  alt="Most Used Programming Languages"
+/>
 
 </div>
 
 ---
+
 
 ## 🌱 Currently Growing
 
