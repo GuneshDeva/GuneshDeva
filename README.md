@@ -142,7 +142,7 @@ A Java-based banking application demonstrating modular backend services, service
 
 <img src="https://github-readme-stats.shion.dev/api?username=GuneshDeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub contribution statistics" />
 
-<img src="https://streak-stats.demolab.com/?user=GuneshDeva&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=GuneshDeva&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180" alt="GitHub contribution streak" />
 
 <br/><br/>
 
