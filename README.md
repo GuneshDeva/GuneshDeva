@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Gunesh Deva!
 
-### ⚡ Working Java Full Stack Developer | Software Developer | Creative Video Editor
+### ⚡ Java Full Stack Developer | Software Developer | Creative Video Editor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+Microservices;Python+%7C+Django+%7C+Selenium;Code+with+Logic.+Create+with+Passion." alt="Animated typing introduction" />
 
